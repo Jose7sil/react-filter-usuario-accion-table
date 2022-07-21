@@ -59,7 +59,7 @@ export default function App() {
 
   };
 
-//Filtrar solo por usuario.
+//Filtrar solo por usuario
   const filtroUsuario = () => {
     let dataFilters = [...data];
     //console.log(usuario);
